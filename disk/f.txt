@@ -1,0 +1,3 @@
+FONT SETTINGS :arial,24pixels,white and all caps
+web width :960px,height :1060px;
+iconfinder.com
